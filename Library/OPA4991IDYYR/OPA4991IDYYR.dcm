@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA4991IDYYR
+D Operational Amplifiers - Op Amps Quad, 40-V, 4.5-MHz, low-power operational amplifier
+K
+F https://www.ti.com/lit/ds/symlink/opa4991.pdf?ts=1656426351385&ref_url=https%253A%252F%252Fwww.mouser.de%252F
+$ENDCMP
+#
+#End Doc Library
